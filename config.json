@@ -1,0 +1,20 @@
+{
+  "freesound": {
+    "api_key": "YOUR_FREESOUND_API_KEY_HERE",
+    "default_format": "ogg"
+  },
+  "metadata": {
+    "artist": "Dante Basso",
+    "album": "Dante Home Lab/Coding/Sound Engineering Tests",
+    "genre": "Ambience / 5.1 Surround",
+    "composer": "Dante Basso, Google Gemini & Python Script (Algorithmic)",
+    "copyright": "© 2026 Dante Basso. All rights reserved.",
+    "encoded_by": "Dante Basso Workstation (Linux)",
+    "location": "Cascavel, PR - Brazil",
+    "license": "Personal Use / Creative Commons"
+  },
+  "paths": {
+    "assets_dir": "../assets",
+    "output_dir": "./output"
+  }
+}
