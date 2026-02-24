@@ -5,7 +5,7 @@ import numpy as np
 from pydub import AudioSegment
 
 # CONFIGURAÇÕES DA API
-API_KEY = "9MybCklVBYEoykwsY9rCyUcFoiULetUDW1sHF8GP"
+API_KEY = "YOUR_FREESOUND_API_KEY_HERE"
 RAIN_ID = "243628"      
 THUNDER_ID = "101667"   
 
